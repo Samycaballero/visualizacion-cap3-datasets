@@ -1,0 +1,10 @@
+CodigoTienda	Tienda	CodigoProducto	DescripcionProduto	Matricula	NombreVendedor	FechaDeVenta	PrecioUnitario	Cantidad	Valorventa
+TIENDA01	Matriz	10001	Smartphone	123456111	José Martinez	19/10/2024	1500	1	1500
+TIENDA01	Matriz	10001	Smartphone	123456111	José Martinez	16/11/2024	1500	2	3000
+TIENDA01	Matriz	10002	Tablet	123456333	Jorge Mateus	20/02/2024	1000	2	2000
+TIENDA01	Matriz	10002	Tablet	123456333	Jorge Mateus	03/06/2024	1000	3	3000
+TIENDA01	Matriz	10003	Televisor	123456333	Jorge Mateus	01/02/2024	3500	3	10500
+TIENDA01	Matriz	10004	Lavadora	123456222	Maria Garcia	30/05/2024	2400	1	2400
+TIENDA01	Matriz	10005	Laptop	123456222	Maria Garcia	29/10/2024	3000	3	9000
+TIENDA01	Matriz	10005	Laptop	123456222	Maria Garcia	24/11/2024	3000	2	6000
+
